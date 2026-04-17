@@ -244,7 +244,13 @@ Made with 🧠 by developers, for developers. No sponsorships. No affiliate link
 
 ## 📈 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=abbosaliboev/free-ai-bible&type=Date)](https://star-history.com/#abbosaliboev/free-ai-bible&Date)
+<a href="https://star-history.com/#abbosaliboev/free-ai-bible&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=abbosaliboev/free-ai-bible&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=abbosaliboev/free-ai-bible&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=abbosaliboev/free-ai-bible&type=Date" />
+  </picture>
+</a>
 
 ---
 
