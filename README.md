@@ -12,13 +12,15 @@
 # 🧠 The Free AI Bible 2026
 ### *The only AI resource directory you'll ever need.*
 
-[![Stars](https://img.shields.io/github/stars/abbosaliboyev66669999/free-ai-bible?style=for-the-badge&color=yellow)](https://github.com/abbosaliboyev66669999/free-ai-bible/stargazers)
-[![Last Updated](https://img.shields.io/badge/Updated-April%202026-brightgreen?style=for-the-badge)](https://github.com/abbosaliboyev66669999/free-ai-bible)
+[![Stars](https://img.shields.io/github/stars/abbosaliboev/free-ai-bible?style=for-the-badge&color=yellow)](https://github.com/abbosaliboev/free-ai-bible/stargazers)
+[![Last Updated](https://img.shields.io/badge/Updated-April%202026-brightgreen?style=for-the-badge)](https://github.com/abbosaliboev/free-ai-bible)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blue?style=for-the-badge)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)](LICENSE)
 
 **700+ free AI tools, APIs, and services — curated, tested, and organized.**
 Zero paywalls. Zero credit card traps. Just pure developer gold.
+
+🌐 **Translations:** [中文](translations/README.zh-CN.md) | [한국어](translations/README.ko.md) | [Español](translations/README.es.md) | [Русский](translations/README.ru.md) | [日本語](translations/README.ja.md) | [O'zbek](translations/README.uz.md)
 
 </div>
 
@@ -237,6 +239,12 @@ If this list saved you money or helped you ship something:
 - **Open a PR** to add a resource you love
 
 Made with 🧠 by developers, for developers. No sponsorships. No affiliate links. Ever.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=abbosaliboev/free-ai-bible&type=Date)](https://star-history.com/#abbosaliboev/free-ai-bible&Date)
 
 ---
 
